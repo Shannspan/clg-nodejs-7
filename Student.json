@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "638c96f6e016b1d904356846"
+  },
+  "firstName": "Adam",
+  "lastName": "Smith"
+},{
+  "_id": {
+    "$oid": "638d51e28e4b33d8dfaa2491"
+  },
+  "firstName": "Eep",
+  "lastName": "Crood"
+},{
+  "_id": {
+    "$oid": "638d52508e4b33d8dfaa2492"
+  },
+  "firstName": "Faith",
+  "lastName": "Betterman"
+},{
+  "_id": {
+    "$oid": "638d54758e4b33d8dfaa2493"
+  },
+  "firstName": "Merida",
+  "lastName": "DunBroch"
+},{
+  "_id": {
+    "$oid": "638d55f98e4b33d8dfaa2494"
+  },
+  "firstName": "Elinor",
+  "lastName": "DunBroch"
+},{
+  "_id": {
+    "$oid": "638d56eb8e4b33d8dfaa2495"
+  },
+  "fistName": "Mike",
+  "lastName": "Wazowski"
+},{
+  "_id": {
+    "$oid": "638d56eb8e4b33d8dfaa2496"
+  },
+  "fistName": "Dory",
+  "lastName": "Fish"
+}]
